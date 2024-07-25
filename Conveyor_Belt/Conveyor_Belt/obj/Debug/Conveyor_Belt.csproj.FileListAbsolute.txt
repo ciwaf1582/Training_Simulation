@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\bin\Debug\Conveyor_Belt.exe.config
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\bin\Debug\Conveyor_Belt.exe
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\bin\Debug\Conveyor_Belt.pdb
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\obj\Debug\Conveyor_Belt.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\obj\Debug\Conveyor_Belt.Form1.resources
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\obj\Debug\Conveyor_Belt.Properties.Resources.resources
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\obj\Debug\Conveyor_Belt.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\obj\Debug\Conveyor_Belt.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\obj\Debug\Conveyor_Belt.exe
+C:\Users\admin\source\repos\Conveyor_Belt\Conveyor_Belt\obj\Debug\Conveyor_Belt.pdb
